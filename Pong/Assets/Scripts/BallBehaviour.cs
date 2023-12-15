@@ -62,7 +62,7 @@ public class BallBehaviour : MonoBehaviour
             //direction.x = -direction.x;
 
             Debug.Log("cambiar direccion en eje y");
-            direction.y = Random.Range()
+            //direction.y = Random.Range()
         }
     }
 
